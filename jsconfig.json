@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "components/*": ["./src/components/*"],
+      "config/*": ["./src/config/*"],
+      "consts/*": ["./src/consts/*"],
+      "models/*": ["./src/models/*"],
+      "screens/*": ["./src/screens/*"],
+      "utils/*": ["./src/utils/*"],
+      "navigation/*": ["./src/navigation/*"],
+      "reducers/*": ["./src/reducers/*"],
+      "actions/*": ["./src/actions/*"],
+    }
+  }
+}
