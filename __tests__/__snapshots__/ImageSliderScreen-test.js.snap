@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ImageSlider Test 1`] = `
+<View
+  onMoveShouldSetResponder={[Function]}
+  onMoveShouldSetResponderCapture={[Function]}
+  onResponderEnd={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderReject={[Function]}
+  onResponderRelease={[Function]}
+  onResponderStart={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  onStartShouldSetResponderCapture={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "flexDirection": "row",
+      "transform": Array [
+        Object {
+          "translateX": 0,
+        },
+      ],
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "uri": "https://via.placeholder.com/600x1000/468DBD",
+      }
+    }
+    style={
+      Object {
+        "height": 0,
+        "minWidth": 750,
+        "width": 0,
+      }
+    }
+  />
+  <Image
+    source={
+      Object {
+        "uri": "https://via.placeholder.com/600x1000/2D5C7A",
+      }
+    }
+    style={
+      Object {
+        "height": 0,
+        "minWidth": 750,
+        "width": 0,
+      }
+    }
+  />
+  <Image
+    source={
+      Object {
+        "uri": "https://via.placeholder.com/600x1000/5CBBFA",
+      }
+    }
+    style={
+      Object {
+        "height": 0,
+        "minWidth": 750,
+        "width": 0,
+      }
+    }
+  />
+  <Image
+    source={
+      Object {
+        "uri": "https://via.placeholder.com/600x1000/162C3B",
+      }
+    }
+    style={
+      Object {
+        "height": 0,
+        "minWidth": 750,
+        "width": 0,
+      }
+    }
+  />
+  <Image
+    source={
+      Object {
+        "uri": "https://via.placeholder.com/600x1000/53A8E0",
+      }
+    }
+    style={
+      Object {
+        "height": 0,
+        "minWidth": 750,
+        "width": 0,
+      }
+    }
+  />
+</View>
+`;
