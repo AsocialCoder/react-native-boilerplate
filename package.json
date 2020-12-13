@@ -16,6 +16,7 @@
     "@react-navigation/stack": "^5.12.8",
     "axios": "^0.21.0",
     "confusing-browser-globals": "^1.0.10",
+    "i18n-js": "^3.8.0",
     "react": "16.13.1",
     "react-native": "0.63.4",
     "react-native-gesture-handler": "^1.9.0",
